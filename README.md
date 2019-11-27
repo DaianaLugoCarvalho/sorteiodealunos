@@ -1,11 +1,6 @@
-# Sorteia.ai
+# Projeto final RePrograma
 
-Projeto desenvolvido por professores da Digital House.
-O Sorteia.ai é uma aplicação simples para sorteios de grupos para o projeto integrador.
+#Sorteio
 
-Tecnologia:
- - HTML
- - CSS
- - JS
 
-Para acessar [clique aqui](https://digitalhousebrasil.github.io/sorteiaai/).
+-Site que se insere nomes de alunos e sorteia um dele, ou sorteia grupos, definindo como parametros quantos grupos e quantos alunos em cada grupo
