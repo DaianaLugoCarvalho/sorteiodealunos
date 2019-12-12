@@ -27,4 +27,4 @@
 
 
 ## O projeto:
- ![./]
+ ![./assets/images/projetofoto.jpeg]
