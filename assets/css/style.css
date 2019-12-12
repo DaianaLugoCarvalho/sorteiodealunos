@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   color: #FFF;
-  background-color:#cf81f7;
+  background-color:#be50f5;
   font-family: monospace;
 }
 .textonavbar{
@@ -10,11 +10,7 @@ font-family: 'SourceSansPro-Light';
 }
 
 
-
-
-
 header {
-  background-color: rgb(145, 84, 175);
   padding: 20px 50px;
   margin-bottom: 20px;
   color: #FFF;
@@ -57,7 +53,7 @@ button {
   color: #fff;
   font-size: 20px;
   text-transform: uppercase;
-  background-color: rgb(221, 12, 248);
+  background-color: rgb(192, 10, 216);
   padding: 10px 22px;
   border: none;
   border-radius: 10px;
@@ -123,4 +119,13 @@ header button {
   padding: 0px 8px;
   font-size: 14px;
   margin-left: 10px;
+}
+
+.footer{
+  background-color: rgb(222, 158, 243);
+}
+
+.footerdois{
+  margin-top: 95px;
+  position: fixed;
 }
