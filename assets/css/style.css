@@ -11,8 +11,10 @@ font-family: 'SourceSansPro-Light';
 
 
 
+
+
 header {
-  background-color: #7E459B;
+  background-color: rgb(145, 84, 175);
   padding: 20px 50px;
   margin-bottom: 20px;
   color: #FFF;
