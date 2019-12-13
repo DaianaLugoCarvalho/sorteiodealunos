@@ -14,7 +14,13 @@
 
 ## Sobre o projeto:
 
-> A ideia surgiu de conversas com um professor de uma ong chamada IOS, que sempre realizava sorteios em sala e utilizava app como ferramenta, o qual não possibilitava incluir os nomes dos alunos e sim numera-los. Assim tive a ideia tambem de poder sortear ao alunos em grupos, já que isso sempre demandava tempo demais e era feito de forma manual. 
+> O  Projeto surgiu da necessidade que eu ouvia do  meu marido, que trabalha em uma ong que capacita jovens periféricos na tecnologia, que quando fazia sorteio na sala, que seja para apresentação, eventos, ou ate mesmo brides, esses sorteios demandavam tempo, que eram feitos muitas vezes no papel ou por algum app que fazia com que os alunos decorassem um numero para si,para que fosse sorteado, perdia um pouco a identidade. 
+
+> E eu falava que um site que fizesse o sorteio iria ajudara a ser mais pratico e impessoal  sorteio.
+
+> No processo surgiu a demanda de fazer o sorteio de grupos, ou seja aqueles trabalhos em grupos que sempre davam trabalho para sortear quem faz com quem vai, agora vai ser sorteado simplesmente colocando os nomes dos alunos e o parâmetro de quantos alunos por grupo deseja e sortear.
+
+> Esqueceu de colocar o nome de algum aluno ? Não tem problema, só colocar incluir o nome e sortear o grupo novamente. 
 
 
 ## Funcionalidades do projeto:
