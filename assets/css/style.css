@@ -129,3 +129,19 @@ header button {
   margin-top: 95px;
   position: fixed;
 }
+
+.github{
+  color:white;
+}
+
+.navbarmenu{
+  background-color:#be50f5;
+  font-family: monospace;
+  color:white;
+  
+}
+
+
+.imgnav{
+  margin: 60px;
+}
